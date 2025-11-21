@@ -1,7 +1,3 @@
-
- 
-![image](https://github.com/JIENWU/CaPPI-code/blob/main/CaPPI%20workflow.png)
- 
 # CaPPI: A Cross-Attention-Based Deep Learning Framework for Predicting Cancer-Related Protein–Protein Interactions
 
 ![Workflow](https://github.com/JIENWU/CaPPI-code/blob/main/CaPPI%20workflow.png)
@@ -38,12 +34,19 @@ The CaPPI workflow consists of the following major components:
 ## Repository Structure
 
 ├── CAM/ # Cross-Attention Mechanism implementation
+
 ├── Cross attention/ # Fusion module source code
+
 ├── DRW/ # Diversified Random Walk algorithm
+
 ├── GCNN/ # Gated Convolutional Neural Network
+
 ├── MLP/ # Multi-Layer Perceptron prediction module
+
 ├── CaPPI workflow.png # Framework architecture diagram
+
 ├── README.md # Project documentation
+
 └── .gitattributes # Git configuration
 
 
