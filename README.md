@@ -1,4 +1,4 @@
-# CaPPI: A Cross-Attention-Based Deep Learning Framework for Predicting Cancer-Related Protein–Protein Interactions
+# CaPPI: A Cross-Attention Framework Integrating Diversified Random Walk and Sequence Semantics for Predicting Cancer-Related Protein Interactions
 
 ![Workflow](https://github.com/JIENWU/CaPPI-code/blob/main/CaPPI%20workflow.png)
 
